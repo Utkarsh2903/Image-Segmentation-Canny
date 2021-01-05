@@ -1,4 +1,4 @@
-# Image-Segmentation-Canny
+# Image Segmentation using Canny algorithm
 
 The method of partitioning a digital image into several segments (sets of pixels, also known as image objects) is known as Image Segmentation. The aim of segmentation is to 
 simplify and/or alter the representation of an image into something that is easier to analyse and more meaningful. Segmentation of images is usually done to locate objects 
